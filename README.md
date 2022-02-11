@@ -1,7 +1,7 @@
-# mamaearth-clone-by-backend# Mama-Earth
-This is a clone of www.mamaearth.in website made using HTML, CSS and EJS. It's an India based E-commerce website for skin care products.
+# mamaearth-clone-by-backend  #Mama-Earth
+This is a clone of www.mamaearth.in website made using HTML, CSS and EJS. It's an Indian based E-commerce website for skin care products.
 
-## Webpages
+#Webpages
 
 1.Homepage
 
